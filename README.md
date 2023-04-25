@@ -53,3 +53,13 @@ To help the event organizers make the right choice picking out the teams that sh
 ➖ attended Dragonhack last year so if something goes wrong, I’ll notice
 
 ## Žiga R.
+
+➕ I do uni assingments all day every day so a two-day hackathon is just an ordinary day for me.
+
+➕ I shower daily.
+
+<br/>
+
+➖ Can't spam F5 fast enough.
+
+➖ Understands computers more than people.

@@ -1,9 +1,9 @@
 # Dragonhack_2023_application
-Helping the Dragonhack organizers make good choices
+*Helping the Dragonhack organizers make good choices*
 
 To help the event organizers make the right choice picking out the teams that should go to the event, we decided to make a list of pros and cons for each one of our team members. 
 
-# Žiga T.
+## Žiga T.
 + I know how to use all important programming languages (Python)
 + my sleep schedule is irregular so I won't even notice not sleeping for 24 hours
 + I work better under pressure
@@ -14,7 +14,7 @@ To help the event organizers make the right choice picking out the teams that sh
 - I don't work when not under pressure
 - I don't know how to use Eventbrite bots
 
-# Blaž R.
+## Blaž R.
 + I can do embedded so you can be sure someone will sign up for the niche challenges
 + spent 4 years at FRI so far so I can keep an interested facial expression no matter what’s going on 
 + I have 5 projects due the week after Dragonhack so you know I really want to be there
@@ -23,7 +23,7 @@ To help the event organizers make the right choice picking out the teams that sh
 - quit drinking for a year but then decided to go for a masters
 - pretty tall so I stick out in pictures
 
-# Ana B.
+## Ana B.
 + will not bother any of the company representatives because people scare me
 + I showered in the last 24h
 + diversity
@@ -32,4 +32,4 @@ To help the event organizers make the right choice picking out the teams that sh
 - I have a macbook so I can’t run any software 
 - attended Dragonhack last year so if something goes wrong, I’ll notice
 
-# Žiga R.
+## Žiga R.

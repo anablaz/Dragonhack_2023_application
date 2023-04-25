@@ -54,12 +54,12 @@ To help the event organizers make the right choice picking out the teams that sh
 
 ## Žiga R.
 
-➕ I do uni assingments all day every day so a two-day hackathon is just an ordinary day for me.
+➕ I do uni assingments all day every day so a two-day hackathon is just an ordinary day for me
 
-➕ I shower daily.
+➕ I shower daily
 
 <br/>
 
-➖ Can't spam F5 fast enough.
+➖ Can't spam F5 fast enough
 
-➖ Understands computers more than people.
+➖ I understand computers more than people

@@ -8,7 +8,7 @@ To help the event organizers make the right choice picking out the teams that sh
 + my sleep schedule is irregular so I won't even notice not sleeping for 24 hours
 + I work better under pressure
 + I planted a pineapple
-+ this will be my first hackaton, so I will have beginner's luck
++ this will be my first hackathon, so I will have beginner's luck
 
 - my hair color is very unpredictable
 - I don't work when not under pressure

@@ -12,7 +12,9 @@ To help the event organizers make the right choice picking out the teams that sh
 
 ➕ I planted a pineapple
 
-➕ this will be my first hackathon, so I will have beginner's luck
+➕ this will be my first hackathon, so I will have beginner's luck 
+
+<br/>
 
 ➖ my hair color is very unpredictable
 
@@ -27,6 +29,8 @@ To help the event organizers make the right choice picking out the teams that sh
 
 ➕ I have 5 projects due the week after Dragonhack so you know I really want to be there
 
+<br/>
+
 ➖ I know so many programming languages but don’t know how to speak to people
 
 ➖ quit drinking for a year but then decided to go for a masters
@@ -39,6 +43,8 @@ To help the event organizers make the right choice picking out the teams that sh
 ➕ showered in the last 24h
 
 ➕ diversity
+
+<br/>
 
 ➖ will not talk to any of the company representatives because people scare me
 
